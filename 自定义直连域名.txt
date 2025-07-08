@@ -1,2 +1,3 @@
-jd.com
-mars.jd.com
+payload:
+  - 'jd.com'
+  - 'mars.jd.com'
